@@ -2,6 +2,7 @@
 
 cd circuits
 
+
 if [ -f ./powersOfTau28_hez_final_10.ptau ]; then
     echo "powersOfTau28_hez_final_10.ptau already exists. Skipping."
 else
